@@ -10,7 +10,7 @@ TaxiDespatch je aplikacija koja korisnicima omogućava jednostvno i brzo pozivan
 
 Cilj aplikacije je olakašavanje i unapređenje odnosa klijenata i taksista, te odstranjivanje problema i komplikacija usljed grešaka nastalih zbog čovjekovih previda u ulozi dispečera. Nudi intuitivan interfejs, kako klijentu, tako i taksisti, i omogućava uspotavu njihove veze kroz par sekundi, uz samo nekoliko dodira ekrana.
 
-TaxiDispatch pronalazi najbolje pozicioniranog vozača za obavaljanje datog posla, te minimizira troškove taxi kompanije. Omogućava bolju koordinaciju vozača, kao i iskoristivost njihovog vremena. Olakšava njihov posao.
+TaxiDispatch pronalazi najbolje pozicioniranog vozača za obavaljanje datog posla, te minimizira troškove taxi kompanije. Omogućava bolju koordinaciju vozača, kao i iskoristivost njihovog vremena. Jednostavno, olakšava njihov posao.
 
 Korisnik više nikada neće biti primoran na bespotrebno čekanje usljed loše organizacije, niti obavaljati veliki broj poziva kako bi dobio uslugu.
 
