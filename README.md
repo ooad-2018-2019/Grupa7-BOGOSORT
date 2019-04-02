@@ -20,14 +20,14 @@ Bilo kada, bilo gdje, TaxiDispatch Vas vodi vašem cilju!
 # Registracija klijenta
 
 Kako bi klijentu bile na raspolaganju funkcionalnosti i prednosti aplikacije TaxiDispatch, potrebno je da kreira svoj račun, putem registracije. Dužan je dostaviti sljedeće informacije:
-*Ime
-*Prezime
-*Broj lične karte
-*Datum rođenja
-*Spol
-*E-mail
-*Username
-*Password
+* Ime
+* Prezime
+* Broj lične karte
+* Datum rođenja
+* Spol
+* E-mail
+* Username
+* Password
 
 
 
