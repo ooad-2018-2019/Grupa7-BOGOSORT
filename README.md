@@ -17,6 +17,17 @@ Korisnik više nikada neće biti primoran na bespotrebno čekanje usljed loše o
 Bilo kada, bilo gdje, TaxiDispatch Vas vodi vašem cilju!
 
 ## Processes
-# 
+# Registracija klijenta
+
+Kako bi klijentu bile na raspolaganju funkcionalnosti i prednosti aplikacije TaxiDispatch, potrebno je da kreira svoj račun, putem registracije. Dužan je dostaviti sljedeće informacije:
+*Ime
+*Prezime
+*Broj lične karte
+*Datum rođenja
+*Spol
+*E-mail
+*Username
+*Password
+
 
 
