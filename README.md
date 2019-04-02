@@ -29,5 +29,7 @@ Kako bi klijentu bile na raspolaganju funkcionalnosti i prednosti aplikacije Tax
 * Username
 * Password
 
+## Registracija vozača
+
 
 
