@@ -1,7 +1,6 @@
 # Theme: TaxiDispatch - SA version
-<div align="center">
+
 [![](http://img.youtube.com/vi/9z0IDkhriRU/0.jpg)](https://www.youtube.com/watch?v=9z0IDkhriRU "TAXI")
-</div>
 
 # Team members
 * Arslan Turkušić 
@@ -9,6 +8,7 @@
 * Medin Paldum
 
 # Project description
+---
 TaxiDespatch je aplikacija koja korisnicima omogućava jednostvno i brzo pozivanje, kao i naručivanje taksija uz minimalno vrijeme čekanja. Zaboravite na probleme svakodnevnice, gdje čekanje izaziva testiranje Vašeg strpljenja do krajnjih granica, ili čak nedolazak vozila nakon poziva.
 
 Cilj aplikacije je olakašavanje i unapređenje odnosa klijenata i taksista, te odstranjivanje problema i komplikacija usljed grešaka nastalih zbog čovjekovih previda u ulozi dispečera. Nudi intuitivan interfejs, kako klijentu, tako i taksisti, i omogućava uspotavu njihove veze kroz par sekundi, uz samo nekoliko dodira ekrana.
@@ -20,6 +20,7 @@ Korisnik više nikada neće biti primoran na bespotrebno čekanje usljed loše o
 Bilo kada, bilo gdje, TaxiDispatch Vas vodi vašem cilju!
 
 # Processes
+---
 ## Registracija klijenta
 
 Kako bi klijentu bile na raspolaganju funkcionalnosti i prednosti aplikacije TaxiDispatch, potrebno je da kreira svoj račun putem registracije. Dužan je dostaviti sljedeće informacije:
@@ -93,4 +94,9 @@ Na kaju svakog mjeseca, TaxiDispatch sastavlja listu najboljih uposlenika, na os
 Pored liste najboljih radnika, aplikacija sastavlja i izvještaj poslovanja taksi kompanije u prethodnom mjesecu. Izvještaj uključuje informacije poput: broj izvršenih zahtjeva, izvršeni poslovi po radniku...
 
 # Funkcionalnosti
-
+---
+* Registracija korisnika
+* Slanje zahtjeva za registraciju vozača
+* Registracija vozača
+* Narudžba taksija
+*
