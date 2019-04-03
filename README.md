@@ -63,6 +63,11 @@ Ukoliko je admin odobrio registraciju datog vozača, koji je naravno prethodno d
 
 U slučaju kada bilo koji vozač, bilo zbog nemarne vožnje, kazni zbog saobraćajnih prekršaja ili općeg nezadovoljstva korisnika, bude smatran za nereprezentativnog člana kompanije, ostavljena je mogućnost njegove suspenzije. Ona uključuje blokiranje računa na određeno vrijeme, ili, u ekstremnim slučajevima, brisanje računa, ukoliko je riječ o otkazu.
 
+## Zahtjev
 
+Pri podnošenju zahtjeva za taksi usluge, od korisnika se očekuje da unese:
+* Potreban broj mjesta u vozilu
+* Maksimalno vrijeme koje može čekati na dolazak vozila
+Sama lokacija klijenta se određuje uz pomoć lociranja njegovog uređaja. 
 
 
