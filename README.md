@@ -43,7 +43,7 @@ Bilo koja osoba koja želi da obavlja ulogu taksi vozača mora kreirati korisni�
 
 ## Registracija vozača
 
-Ukoliko je admin odobrio registraciju datog vozača, koji je prethodno dobio posao i shodno potpisao ugovor o radu, od novog uposlenika se očekuje vjerodostojan unos podataka:
+Ukoliko je admin odobrio registraciju datog vozača, koji je naravno prethodno dobio posao i shodno potpisao ugovor o radu, od novog uposlenika se očekuje vjerodostojan unos podataka:
 
 * Adresa stanovanja
 * E-mail
@@ -59,8 +59,9 @@ Ukoliko je admin odobrio registraciju datog vozača, koji je prethodno dobio pos
 * Username
 * Password
 
-## 
-*
+## Brisanje i suspenzija uposlenika
+
+U slučaju kada bilo koji vozač, bilo zbog nemarne vožnje, kazni zbog saobraćajnih prekršaja ili općeg nezadovoljstva korisnika, bude smatran za nereprezentativnog člana kompanije, ostavljena je mogućnost njegove suspenzije. Ona uključuje blokiranje računa na određeno vrijeme, ili, u ekstremnim slučajevima, brisanje računa, ukoliko je riječ o otkazu.
 
 
 
