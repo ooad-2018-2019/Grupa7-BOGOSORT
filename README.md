@@ -7,8 +7,9 @@
 * Faris Mušić 
 * Medin Paldum
 
-# Project description
 ---
+# Opis projekta
+
 TaxiDespatch je aplikacija koja korisnicima omogućava jednostvno i brzo pozivanje, kao i naručivanje taksija uz minimalno vrijeme čekanja. Zaboravite na probleme svakodnevnice, gdje čekanje izaziva testiranje Vašeg strpljenja do krajnjih granica, ili čak nedolazak vozila nakon poziva.
 
 Cilj aplikacije je olakašavanje i unapređenje odnosa klijenata i taksista, te odstranjivanje problema i komplikacija usljed grešaka nastalih zbog čovjekovih previda u ulozi dispečera. Nudi intuitivan interfejs, kako klijentu, tako i taksisti, i omogućava uspotavu njihove veze kroz par sekundi, uz samo nekoliko dodira ekrana.
@@ -19,8 +20,9 @@ Korisnik više nikada neće biti primoran na bespotrebno čekanje usljed loše o
 
 Bilo kada, bilo gdje, TaxiDispatch Vas vodi vašem cilju!
 
-# Processes
 ---
+# Procesi
+
 ## Registracija klijenta
 
 Kako bi klijentu bile na raspolaganju funkcionalnosti i prednosti aplikacije TaxiDispatch, potrebno je da kreira svoj račun putem registracije. Dužan je dostaviti sljedeće informacije:
@@ -49,7 +51,7 @@ Bilo koja osoba koja želi da obavlja ulogu taksi vozača mora kreirati korisni�
 
 ## Registracija vozača
 
-Ukoliko je admin odobrio registraciju datog vozača, koji je naravno prethodno dobio posao i shodno potpisao ugovor o radu, od novog uposlenika se očekuje vjerodostojan unos podataka:
+Ukoliko je admin odobrio registraciju datog vozača, koji je naravno prethodno dobio posao i shodno potpisao ugovor o radu, od njega se očekuje vjerodostojan unos sljedećih podataka:
 
 * Adresa stanovanja
 * E-mail
@@ -93,10 +95,28 @@ Na kaju svakog mjeseca, TaxiDispatch sastavlja listu najboljih uposlenika, na os
 
 Pored liste najboljih radnika, aplikacija sastavlja i izvještaj poslovanja taksi kompanije u prethodnom mjesecu. Izvještaj uključuje informacije poput: broj izvršenih zahtjeva, izvršeni poslovi po radniku...
 
-# Funkcionalnosti
 ---
+# Funkcionalnosti
+
 * Registracija korisnika
 * Slanje zahtjeva za registraciju vozača
 * Registracija vozača
 * Narudžba taksija
-*
+* Potvrda ili odbijanje vozača na zahtjev za vožnju
+* Ocjenjivanje usluge
+* Brisanje/otpuštanje uposlenika
+* Pregled ranijih zahtjeva
+* Određivanje lokacije klijenta
+* Kreiranje mjesečne liste najboljih vozača
+* Kreiranje mjesečnog izvještaja rada
+* Pristup recenzijama korisnika
+* Pristup aplikaciji sa različitim privilegijama
+
+---
+# Akteri
+
+* Neregistrovani korisnik - mogućnost kreiranja korisničkog računa 
+* Registrovani korisnik - pravo podnošenja zahtjeva za taksi, te ocjenjivanje vožnje
+* Uposlenik/vozač - mogućnost prihvatanja/odbijanja zathjeva koje dobija
+* Administrator - nadgleda cijeli sistem, uz mogućnosti odobravanja zahtjeva za registraciju novih vozača, brisanje trenutnih, te pregled čitave historije zahtjeva, promjena, upravljanja bazom, ispisivanje izvještaja...
+
