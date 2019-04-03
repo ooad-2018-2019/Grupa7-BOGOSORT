@@ -1,7 +1,9 @@
 # Theme: TaxiDispatch - SA version
 
+[!Taxi Trebam Te(https://img.youtube.com/vi/9z0IDkhriRU/0.jpg)](https://www.youtube.com/watch?v=9z0IDkhriRU)
+
 # Team members
-* Arslan Turkšić 
+* Arslan Turkušić 
 * Faris Mušić 
 * Medin Paldum
 
@@ -22,12 +24,14 @@ Bilo kada, bilo gdje, TaxiDispatch Vas vodi vašem cilju!
 Kako bi klijentu bile na raspolaganju funkcionalnosti i prednosti aplikacije TaxiDispatch, potrebno je da kreira svoj račun putem registracije. Dužan je dostaviti sljedeće informacije:
 * Ime
 * Prezime
-* Broj lične karte
+* Jedinstveni matični broj (JMBG)
 * Datum rođenja
 * Spol
 * E-mail
 * Username
 * Password
+
+Napomena: JMBG korisnika je potreban kako bi se smanjila mogućnost kreiranja lažnih profila, što bi smanjivalo efikasnost apliakcije.
 
 ## Zahtjev za registraciju novog vozača
 
