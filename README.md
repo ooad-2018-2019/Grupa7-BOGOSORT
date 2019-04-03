@@ -68,6 +68,7 @@ U slučaju kada bilo koji vozač, bilo zbog nemarne vožnje, kazni zbog saobrać
 Pri podnošenju zahtjeva za taksi usluge, od korisnika se očekuje da unese:
 * Potreban broj mjesta u vozilu
 * Maksimalno vrijeme koje može čekati na dolazak vozila
-Sama lokacija klijenta se određuje uz pomoć lociranja njegovog uređaja. 
+
+Sama lokacija klijenta se određuje uz pomoć lociranja njegovog uređaja. Nakon toga, algoritmom se pronalaze najbliži slobodni vozači, koji naravno imaju odgovarajući broj slobodnih mjesta. TaxiDispatch sastavlja listu najpogodnijih taksista za tu svrhu, te ih automatski obavještavaju o zahtjevu u vidu notifikacije koju mogu prihvatiti ili odbiti. Ukoliko jedan vozač prihvati zathjev, ostalim se gasi ta mogućnost, kako bi se izbjegla kolizija. Taksista koji je preuzeo posao vidi lokaciju klijenta.  
 
 
