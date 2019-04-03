@@ -59,9 +59,9 @@ Ukoliko je admin odobrio registraciju datog vozača, koji je naravno prethodno d
 * Username
 * Password
 
-## Brisanje i suspenzija uposlenika
+## Brisanje uposlenika
 
-U slučaju kada bilo koji vozač, bilo zbog nemarne vožnje, kazni zbog saobraćajnih prekršaja ili općeg nezadovoljstva korisnika, bude smatran za nereprezentativnog člana kompanije, ostavljena je mogućnost njegove suspenzije. Ona uključuje blokiranje računa na određeno vrijeme, ili, u ekstremnim slučajevima, brisanje računa, ukoliko je riječ o otkazu.
+U slučaju kada bilo koji vozač, bilo zbog nemarne vožnje, kazni zbog saobraćajnih prekršaja ili općeg nezadovoljstva korisnika, bude smatran za nereprezentativnog člana kompanije, dobit će otkaz. To uključuje brisanje njegovog računa. 
 
 ## Zahtjev
 
@@ -71,4 +71,14 @@ Pri podnošenju zahtjeva za taksi usluge, od korisnika se očekuje da unese:
 
 Sama lokacija klijenta se određuje uz pomoć lociranja njegovog uređaja. Nakon toga, algoritmom se pronalaze najbliži slobodni vozači, koji naravno imaju odgovarajući broj slobodnih mjesta. TaxiDispatch sastavlja listu najpogodnijih taksista za tu svrhu, te ih automatski obavještavaju o zahtjevu u vidu notifikacije koju mogu prihvatiti ili odbiti. Ukoliko jedan vozač prihvati zathjev, ostalim se gasi ta mogućnost, kako bi se izbjegla kolizija. Taksista koji je preuzeo posao vidi lokaciju klijenta.  
 
+## Plaćanje
 
+Planirani način plaćanja jeste isključivo keš, tačnije, nakon što taksista preuzme klijenta, cijena se računa uz pomoć taksimetra i uslova određene taksi službe, unutar kojih ova aplikacija ne zalazi.
+
+## Recenzije korisnika 
+
+Nakon uspješnog poslovanja, klijent ima mogućnost da ocijeni pruženu uslugu, ili ostavi komentar, ukoliko to želi.
+
+## Najbolji radnici
+
+Na kaju svakog mjeseca, TaxiDispatch sastavlja listu najboljih uposlenika, na osnovu recenzija ostavljenih od strane korisnika. Ovi vozači su kandidat za bonus uplate, koje su definisane pravilima i zakonima taxi kompanije koje koriste usluge ove aplikacije.
