@@ -81,4 +81,11 @@ Nakon uspješnog poslovanja, klijent ima mogućnost da ocijeni pruženu uslugu, 
 
 ## Najbolji radnici
 
-Na kaju svakog mjeseca, TaxiDispatch sastavlja listu najboljih uposlenika, na osnovu recenzija ostavljenih od strane korisnika. Ovi vozači su kandidat za bonus uplate, koje su definisane pravilima i zakonima taxi kompanije koje koriste usluge ove aplikacije.
+Na kaju svakog mjeseca, TaxiDispatch sastavlja listu najboljih uposlenika, na osnovu recenzija ostavljenih od strane korisnika. Ovi vozači su kandidati za bonus uplate, koje su definisane pravilima i zakonima taxi kompanije koje koriste usluge aplikacije.
+
+## Mjesečni izvještaj
+
+Pored liste najboljih radnika, aplikacija sastavlja i izvještaj poslovanja taksi kompanije u prethodnom mjesecu. Izvještaj uključuje informacije poput: broj izvršenih zahtjeva, izvršeni poslovi po radniku...
+
+# Funkcionalnosti
+
