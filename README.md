@@ -58,12 +58,6 @@ Ukoliko je admin odobrio registraciju datog vozača, koji je naravno prethodno d
 * Kontakt telefon
 * Broj transakcijskog računa
 * Govorni jezici
-* Registracioni broj vozila
-* Marka vozila
-* Model vozila
-* Boja vozila
-* European emission standard vozila
-* Broj sjedišta vozila
 * Username
 * Password
 
