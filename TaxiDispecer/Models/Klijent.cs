@@ -7,6 +7,6 @@ namespace TaxiDispecer.Models
 {
     public class Klijent : Osoba
     {
-        public int IdKlijenta { get; set; }
+       
     }
 }

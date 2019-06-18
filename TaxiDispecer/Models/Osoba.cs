@@ -11,7 +11,7 @@ namespace TaxiDispecer.Models
         Zenski
     }
 
-    public class Osoba
+    public abstract class Osoba
     {
         public int ID { get; set; }
     
