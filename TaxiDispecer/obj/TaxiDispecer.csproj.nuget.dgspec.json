@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arslan\\source\\repos\\TaxiDispecer\\TaxiDispecer.csproj": {}
+    "C:\\Users\\Arslan\\Desktop\\fsdfs\\Grupa7-BogoSort\\TaxiDispecer\\TaxiDispecer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arslan\\source\\repos\\TaxiDispecer\\TaxiDispecer.csproj": {
+    "C:\\Users\\Arslan\\Desktop\\fsdfs\\Grupa7-BogoSort\\TaxiDispecer\\TaxiDispecer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arslan\\source\\repos\\TaxiDispecer\\TaxiDispecer.csproj",
+        "projectUniqueName": "C:\\Users\\Arslan\\Desktop\\fsdfs\\Grupa7-BogoSort\\TaxiDispecer\\TaxiDispecer.csproj",
         "projectName": "TaxiDispecer",
-        "projectPath": "C:\\Users\\Arslan\\source\\repos\\TaxiDispecer\\TaxiDispecer.csproj",
+        "projectPath": "C:\\Users\\Arslan\\Desktop\\fsdfs\\Grupa7-BogoSort\\TaxiDispecer\\TaxiDispecer.csproj",
         "packagesPath": "C:\\Users\\Arslan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arslan\\source\\repos\\TaxiDispecer\\obj\\",
+        "outputPath": "C:\\Users\\Arslan\\Desktop\\fsdfs\\Grupa7-BogoSort\\TaxiDispecer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
