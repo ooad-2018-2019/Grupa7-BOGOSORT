@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace TaxiDispecer.Models
 {
-    public class Vozac : Osoba
+    public class Administrator
     {
         [ScaffoldColumn(false)]
-        public String BrojTransakcijskogRacuna { get; set; }
+        public int AdministratorID { get; set; }
 
-        [StringLength(10)]
-        public String BrojUgovora { get; set;  }
+        public int Username { get; set; }
+        public int Password { get; set; }
 
-        public String BrojLicence { get; set; }
-
+        public int PermissionLevel { get; set; }
     }
 }
